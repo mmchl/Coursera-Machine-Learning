@@ -124,3 +124,4 @@ In [16]: plt.cla()
     ...: 
 Out[16]: [<matplotlib.lines.Line2D at 0x1a1b354748>]
 </code></pre>
+<img src="https://github.com/mmchl/Coursera-Machine-Learning/blob/master/week-2/wholesale.png">
