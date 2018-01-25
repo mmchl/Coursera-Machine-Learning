@@ -1,4 +1,4 @@
-# Coursera-Machine-Learning
+# Coursera-Machine-Learning (Week 1)
 ## Dataset information
 <a href="https://archive.ics.uci.edu/ml/datasets/iris">https://archive.ics.uci.edu/ml/datasets/iris</a>
 <p>Attributes</p>
@@ -71,4 +71,4 @@ In [13]: out = StringIO()
     ...: 
 Out[13]: 
 </code></pre>
-<img src="https://github.com/mmchl/Coursera-Machine-Learning/blob/master/iris.png">
+<img src="https://github.com/mmchl/Coursera-Machine-Learning/blob/master/week-1/iris.png">
