@@ -3,7 +3,7 @@
 <p><a href="https://archive.ics.uci.edu/ml/datasets/Parkinsons+Telemonitoring">https://archive.ics.uci.edu/ml/datasets/Parkinsons+Telemonitoring</a></p>
 <p>The data set refers to Oxford Parkinson's Disease Telemonitoring.</p>
 <p>Number of observations: 5875</p>
-<p>Attributes: 26</p>
+<p>Attributes: 22</p>
 <ul>
   <li>subject - Integer that uniquely identifies each subject</li>
   <li>age - Subject age</li>
@@ -219,3 +219,4 @@ In [40]: rsquared_train=model.score(pred_train,tar_train)
 0.267879109649<br>
 test data R-square<br>
 0.224502789509</p>
+<p>Data were randomly split into a training set that included 70% of the observations (N=4112) and a test set that included 30% of the observations (N=1763). Of the 21 predictor variables, 19 were retained in the selected model.</p>
