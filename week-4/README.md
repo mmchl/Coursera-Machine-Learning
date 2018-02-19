@@ -445,3 +445,11 @@ group1 group2 meandiff  lower  upper  reject
 \--------------------------------------------
 
 </code></pre>
+<h2>Conclusion</h2>
+<p>
+A k-means cluster analysis was conducted to identify underlying shipping regions based on 8 variables that represent different wholesale characteristics.
+    </p>
+    <p>
+    Data were randomly split into a training set that included 70% of the observations (N=308) and a test set that included 30% of the observations (N=132). A series of k-means cluster analyses were conducted on the training data specifying k=1-19 clusters, using Euclidean distance.
+    </p>
+    
