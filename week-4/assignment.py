@@ -30,7 +30,7 @@ for col in clustervar.columns:
 clus_train, clus_test = train_test_split(clustervar, test_size=.3, random_state=123)
 
 from scipy.spatial.distance import cdist
-clusters=range(1,10)
+clusters=range(1,20)
 meandist=[]
 
 for k in clusters:
